@@ -6,6 +6,7 @@ foo: bar
 Experiments with assistive customization for Github-flavored markdown
 
 {{ site.var }}
+{{ page.foo }}
 
 This is, so far at least, a failed experiment.
 While github pages uses the Jekyll static site
